@@ -122,3 +122,16 @@ This bot is a base framework designed for expansion. It can be turned into a sim
 ---
 
 End of documentation.
+Chat ID
+
+To get your Telegram Chat ID, you can use the following bot:
+
+- https://t.me/userinfobot
+
+Steps:
+
+1. Open the bot link above
+2. Press Start
+3. It will instantly show your User ID and Chat ID information
+
+You can use this Chat ID for bot configuration, admin settings, or user-specific features.
